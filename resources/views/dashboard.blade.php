@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -28,7 +29,7 @@
       <div class="position-sticky pt-3">
         <ul class="nav flex-column">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">
+            <a class="nav-link active" aria-current="page" href="/barang">
               <span data-feather="home" class="align-text-bottom"></span>
               Barang
             </a>
@@ -40,15 +41,15 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">
+            <a class="nav-link" href="/pegawai">
               <span data-feather="shopping-cart" class="align-text-bottom"></span>
               Pegawai
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">
+            <a class="nav-link" href="/riwayatpembelian">
               <span data-feather="users" class="align-text-bottom"></span>
-              Riwayat Pembelian
+              Pembelian
             </a>
           </li>
           <li class="nav-item">
